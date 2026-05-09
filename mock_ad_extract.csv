@@ -1,0 +1,5 @@
+Employee_ID,AD_Account_Name,Account_Status,Last_Logon_Date,Admin_Privileges
+E9901,jsmith,Enabled,2023-10-20,No
+E9902,sconnor,Enabled,2023-10-22,Yes
+E9903,mscott,Disabled,2023-10-14,No
+E9904,jhalpert,Enabled,2023-10-22,No
