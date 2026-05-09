@@ -1,0 +1,5 @@
+Employee_ID,First_Name,Last_Name,Department,Status,Termination_Date
+E9901,John,Smith,Finance,Terminated,2023-10-01
+E9902,Sarah,Connor,IT,Active,
+E9903,Michael,Scott,Sales,Terminated,2023-10-15
+E9904,Jim,Halpert,Sales,Active,
